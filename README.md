@@ -1,7 +1,7 @@
 # pwm_shift
-Implementing a 8 bit shift register compatible with PWM Outputs using Verilog HDL
+Designing an 8-bit shift register with PWM output support using Verilog HDL
 
 
-The "pwm_shift_register.v" contains the verilog code for the shift register module. 
-The "pwm_generator.v" contains the verilog code for the main project, i.e the pwm shifting module. 
-The "pwm_test.v" contains the verilog testbench code to simulate the project on Xilinx ISE.
+The Verilog code for the shift register module is contained in "pwm_shift_register.v."
+The main project, which implements the PWM shifting module, is written in "pwm_generator.v."
+The testbench code for simulating the project on Xilinx ISE is in "pwm_test.v."
